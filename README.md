@@ -18,7 +18,7 @@
                                                                         
 </pre>
 
-<img src="https://img.shields.io/badge/Java Core-512BD4?style=flat-square&logo=java&logoColor=white"/></a>
+
 <img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=csharp&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/></a>
 
