@@ -18,22 +18,17 @@
                                                                         
 </pre>
 
-
-<img src="https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=csharp&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/></a>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=sourcetree&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=gitkraken&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
 
-<img src="https://img.shields.io/badge/Mac%20OS-333333?style=flat-square&logo=apple&logoColor=white"/><a/>
-<img src="https://img.shields.io/badge/Linux-DC8634?style=flat-square&logo=linux&logoColor=white"/><a/>
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
 
-<img src="https://img.shields.io/badge/Jetbrains%20Rider-000000?style=flat-square&logo=rider&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
 
 <table>
     <tr>
