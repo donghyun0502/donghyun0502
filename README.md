@@ -36,10 +36,10 @@
 <table>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=donghyun0502&show_icons=true&theme=tokyonight&exclude_repo=Mac-Settings,donghyun0502,donghyun0502.github.io"/></a>
+            <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=donghyun0502&show_icons=true&theme=tokyonight&exclude_repo=Mac-Settings,donghyun0502,donghyun0502.github.io"/></a>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donghyun0502&layout=compact&theme=tokyonight&exclude_repo=Mac-Settings,donghyun0502,donghyun0502.github.io"/></a>
+            <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=donghyun0502&layout=compact&theme=tokyonight&exclude_repo=Mac-Settings,donghyun0502,donghyun0502.github.io"/></a>
         </td>
     </tr>
 </table>
